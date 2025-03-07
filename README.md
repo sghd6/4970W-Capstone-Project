@@ -1,6 +1,10 @@
-# 4970W-Capstone-Project
-Justice Gutierrez	
-Temitope Alabi	
-Paige Pelster
-Spencer Hunt
-Jaeheon Shin
+# Character Movement System 
+ 
+## Controls 
+- WASD: Move character 
+- Space: Jump 
+- Left Control: Dodge 
+ 
+## Implementation 
+- Third-person character controller with physics-based movement 
+- Camera follows player from behind 
